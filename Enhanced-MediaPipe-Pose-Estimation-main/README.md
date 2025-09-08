@@ -239,6 +239,6 @@ MIT License
 - **Dance Community**: Inspiration and test content for development
 
 ##
-**⭐ If this project helped you, please give it a star!!**
+*  If this project helped you, please give it a star!!**
 
 **Made with ❤️**
